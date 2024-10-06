@@ -185,6 +185,7 @@
   * [Дерево метрик](hard-skills/pm-for-sa/derevo-metrik.md)
   * [Фреймворки](hard-skills/pm-for-sa/freimvorki.md)
   * [Юнит-экономика](hard-skills/pm-for-sa/yunit-ekonomika.md)
+  * [Модель Кано](hard-skills/pm-for-sa/model-kano.md)
 
 ***
 
