@@ -1,6 +1,6 @@
-# Хранение и анализ данных
+# 📎 Хранение и анализ данных
 
-<figure><img src="../../../../.gitbook/assets/osi (13).jpg" alt=""><figcaption><p>Храненение и анализ данных</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/osi (13).jpg" alt=""><figcaption><p>Храненение и анализ данных</p></figcaption></figure>
 
 ## Архитектура хранилища данных
 
@@ -45,4 +45,3 @@ Data Warehouse (DWH) — хранилище, предназначенное дл
 * [https://habr.com/ru/articles/441538/](https://habr.com/ru/articles/441538/)
 * [https://selectel.ru/blog/data-warehouse/](https://selectel.ru/blog/data-warehouse/)
 * [https://cloud.mts.ru/cloud-thinking/blog/data-warehouse/](https://cloud.mts.ru/cloud-thinking/blog/data-warehouse/)
-
