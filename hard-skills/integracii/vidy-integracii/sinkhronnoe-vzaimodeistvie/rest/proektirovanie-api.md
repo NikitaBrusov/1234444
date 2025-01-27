@@ -1,4 +1,4 @@
-# 📎 Проектирование API
+# Проектирование API
 
 <figure><img src="../../../../../.gitbook/assets/ucumlintmag2.png" alt=""><figcaption><p>UML диаграмма вызова REST API для use-case "Добавить новый товар"</p></figcaption></figure>
 
